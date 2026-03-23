@@ -9,7 +9,7 @@ O **Par_Impar_main** é uma implementação robusta e de alta precisão desenvol
 Esta biblioteca foi projetada com foco em princípios específicos de engenharia de software:
 
 * **Zero Arithmetic Overhead:** Eliminamos a necessidade de divisões lógicas no processador, garantindo que o fluxo de dados seja tratado por comparações diretas de estado.
-* **Deep Condition Stacking:** Utilizamos uma estrutura de ramificação profunda que permite uma inspeção granular de cada entrada individual entre 0 e 1000.
+* **Deep Condition Stacking:** Utilizamos uma estrutura de ramificação profunda que permite uma inspeção granular de cada entrada individual entre -1000 e 1000.
 * **Predictability:** O tempo de execução é extremamente previsível, seguindo uma progressão linear rigorosa conforme o valor do input aumenta.
 * **Manual Unrolling:** Todo o "loop" lógico foi desenrolado manualmente (manual loop unrolling) para evitar saltos de instrução (jumps) desnecessários.
 
