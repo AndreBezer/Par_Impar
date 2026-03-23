@@ -2009,5 +2009,1012 @@ programa {
     se(numero == 998){ escreva("Par") }
     se(numero == 999){ escreva("Impar") }
     se(numero == 1000){ escreva("Par") }
+
+    escolha (numero) {
+      caso -1000: escreva("\nExtenso: Menos Mil") pare
+      caso -999: escreva("\nExtenso: Menos Novecentos e Noventa e Nove") pare
+      caso -998: escreva("\nExtenso: Menos Novecentos e Noventa e Oito") pare
+      caso -997: escreva("\nExtenso: Menos Novecentos e Noventa e Sete") pare
+      caso -996: escreva("\nExtenso: Menos Novecentos e Noventa e Seis") pare
+      caso -995: escreva("\nExtenso: Menos Novecentos e Noventa e Cinco") pare
+      caso -994: escreva("\nExtenso: Menos Novecentos e Noventa e Quatro") pare
+      caso -993: escreva("\nExtenso: Menos Novecentos e Noventa e Três") pare
+      caso -992: escreva("\nExtenso: Menos Novecentos e Noventa e Dois") pare
+      caso -991: escreva("\nExtenso: Menos Novecentos e Noventa e Um") pare
+      caso -990: escreva("\nExtenso: Menos Novecentos e Noventa") pare
+      caso -989: escreva("\nExtenso: Menos Novecentos e Oitenta e Nove") pare
+      caso -988: escreva("\nExtenso: Menos Novecentos e Oitenta e Oito") pare
+      caso -987: escreva("\nExtenso: Menos Novecentos e Oitenta e Sete") pare
+      caso -986: escreva("\nExtenso: Menos Novecentos e Oitenta e Seis") pare
+      caso -985: escreva("\nExtenso: Menos Novecentos e Oitenta e Cinco") pare
+      caso -984: escreva("\nExtenso: Menos Novecentos e Oitenta e Quatro") pare
+      caso -983: escreva("\nExtenso: Menos Novecentos e Oitenta e Três") pare
+      caso -982: escreva("\nExtenso: Menos Novecentos e Oitenta e Dois") pare
+      caso -981: escreva("\nExtenso: Menos Novecentos e Oitenta e Um") pare
+      caso -980: escreva("\nExtenso: Menos Novecentos e Oitenta") pare
+      caso -979: escreva("\nExtenso: Menos Novecentos e Setenta e Nove") pare
+      caso -978: escreva("\nExtenso: Menos Novecentos e Setenta e Oito") pare
+      caso -977: escreva("\nExtenso: Menos Novecentos e Setenta e Sete") pare
+      caso -976: escreva("\nExtenso: Menos Novecentos e Setenta e Seis") pare
+      caso -975: escreva("\nExtenso: Menos Novecentos e Setenta e Cinco") pare
+      caso -974: escreva("\nExtenso: Menos Novecentos e Setenta e Quatro") pare
+      caso -973: escreva("\nExtenso: Menos Novecentos e Setenta e Três") pare
+      caso -972: escreva("\nExtenso: Menos Novecentos e Setenta e Dois") pare
+      caso -971: escreva("\nExtenso: Menos Novecentos e Setenta e Um") pare
+      caso -970: escreva("\nExtenso: Menos Novecentos e Setenta") pare
+      caso -969: escreva("\nExtenso: Menos Novecentos e Sessenta e Nove") pare
+      caso -968: escreva("\nExtenso: Menos Novecentos e Sessenta e Oito") pare
+      caso -967: escreva("\nExtenso: Menos Novecentos e Sessenta e Sete") pare
+      caso -966: escreva("\nExtenso: Menos Novecentos e Sessenta e Seis") pare
+      caso -965: escreva("\nExtenso: Menos Novecentos e Sessenta e Cinco") pare
+      caso -964: escreva("\nExtenso: Menos Novecentos e Sessenta e Quatro") pare
+      caso -963: escreva("\nExtenso: Menos Novecentos e Sessenta e Três") pare
+      caso -962: escreva("\nExtenso: Menos Novecentos e Sessenta e Dois") pare
+      caso -961: escreva("\nExtenso: Menos Novecentos e Sessenta e Um") pare
+      caso -960: escreva("\nExtenso: Menos Novecentos e Sessenta") pare
+      caso -959: escreva("\nExtenso: Menos Novecentos e Cinquenta e Nove") pare
+      caso -958: escreva("\nExtenso: Menos Novecentos e Cinquenta e Oito") pare
+      caso -957: escreva("\nExtenso: Menos Novecentos e Cinquenta e Sete") pare
+      caso -956: escreva("\nExtenso: Menos Novecentos e Cinquenta e Seis") pare
+      caso -955: escreva("\nExtenso: Menos Novecentos e Cinquenta e Cinco") pare
+      caso -954: escreva("\nExtenso: Menos Novecentos e Cinquenta e Quatro") pare
+      caso -953: escreva("\nExtenso: Menos Novecentos e Cinquenta e Três") pare
+      caso -952: escreva("\nExtenso: Menos Novecentos e Cinquenta e Dois") pare
+      caso -951: escreva("\nExtenso: Menos Novecentos e Cinquenta e Um") pare
+      caso -950: escreva("\nExtenso: Menos Novecentos e Cinquenta") pare
+      caso -950: escreva("\nExtenso: Menos Novecentos e Cinquenta") pare
+      caso -949: escreva("\nExtenso: Menos Novecentos e Quarenta e Nove") pare
+      caso -948: escreva("\nExtenso: Menos Novecentos e Quarenta e Oito") pare
+      caso -947: escreva("\nExtenso: Menos Novecentos e Quarenta e Sete") pare
+      caso -946: escreva("\nExtenso: Menos Novecentos e Quarenta e Seis") pare
+      caso -945: escreva("\nExtenso: Menos Novecentos e Quarenta e Cinco") pare
+      caso -944: escreva("\nExtenso: Menos Novecentos e Quarenta e Quatro") pare
+      caso -943: escreva("\nExtenso: Menos Novecentos e Quarenta e Três") pare
+      caso -942: escreva("\nExtenso: Menos Novecentos e Quarenta e Dois") pare
+      caso -941: escreva("\nExtenso: Menos Novecentos e Quarenta e Um") pare
+      caso -940: escreva("\nExtenso: Menos Novecentos e Quarenta") pare
+      caso -939: escreva("\nExtenso: Menos Novecentos e Trinta e Nove") pare
+      caso -938: escreva("\nExtenso: Menos Novecentos e Trinta e Oito") pare
+      caso -937: escreva("\nExtenso: Menos Novecentos e Trinta e Sete") pare
+      caso -936: escreva("\nExtenso: Menos Novecentos e Trinta e Seis") pare
+      caso -935: escreva("\nExtenso: Menos Novecentos e Trinta e Cinco") pare
+      caso -934: escreva("\nExtenso: Menos Novecentos e Trinta e Quatro") pare
+      caso -933: escreva("\nExtenso: Menos Novecentos e Trinta e Três") pare
+      caso -932: escreva("\nExtenso: Menos Novecentos e Trinta e Dois") pare
+      caso -931: escreva("\nExtenso: Menos Novecentos e Trinta e Um") pare
+      caso -930: escreva("\nExtenso: Menos Novecentos e Trinta") pare
+      caso -929: escreva("\nExtenso: Menos Novecentos e Vinte e Nove") pare
+      caso -928: escreva("\nExtenso: Menos Novecentos e Vinte e Oito") pare
+      caso -927: escreva("\nExtenso: Menos Novecentos e Vinte e Sete") pare
+      caso -926: escreva("\nExtenso: Menos Novecentos e Vinte e Seis") pare
+      caso -925: escreva("\nExtenso: Menos Novecentos e Vinte e Cinco") pare
+      caso -924: escreva("\nExtenso: Menos Novecentos e Vinte e Quatro") pare
+      caso -923: escreva("\nExtenso: Menos Novecentos e Vinte e Três") pare
+      caso -922: escreva("\nExtenso: Menos Novecentos e Vinte e Dois") pare
+      caso -921: escreva("\nExtenso: Menos Novecentos e Vinte e Um") pare
+      caso -920: escreva("\nExtenso: Menos Novecentos e Vinte") pare
+      caso -919: escreva("\nExtenso: Menos Novecentos e Dezenove") pare
+      caso -918: escreva("\nExtenso: Menos Novecentos e Dezoito") pare
+      caso -917: escreva("\nExtenso: Menos Novecentos e Dezessete") pare
+      caso -916: escreva("\nExtenso: Menos Novecentos e Dezesseis") pare
+      caso -915: escreva("\nExtenso: Menos Novecentos e Quinze") pare
+      caso -914: escreva("\nExtenso: Menos Novecentos e Quatorze") pare
+      caso -913: escreva("\nExtenso: Menos Novecentos e Treze") pare
+      caso -912: escreva("\nExtenso: Menos Novecentos e Doze") pare
+      caso -911: escreva("\nExtenso: Menos Novecentos e Onze") pare
+      caso -910: escreva("\nExtenso: Menos Novecentos e Dez") pare
+      caso -909: escreva("\nExtenso: Menos Novecentos e Nove") pare
+      caso -908: escreva("\nExtenso: Menos Novecentos e Oito") pare
+      caso -907: escreva("\nExtenso: Menos Novecentos e Sete") pare
+      caso -906: escreva("\nExtenso: Menos Novecentos e Seis") pare
+      caso -905: escreva("\nExtenso: Menos Novecentos e Cinco") pare
+      caso -904: escreva("\nExtenso: Menos Novecentos e Quatro") pare
+      caso -903: escreva("\nExtenso: Menos Novecentos e Três") pare
+      caso -902: escreva("\nExtenso: Menos Novecentos e Dois") pare
+      caso -901: escreva("\nExtenso: Menos Novecentos e Um") pare
+      caso -900: escreva("\nExtenso: Menos Novecentos") pare
+      caso -899: escreva("\nExtenso: Menos Oitocentos e Noventa e Nove") pare
+      caso -898: escreva("\nExtenso: Menos Oitocentos e Noventa e Oito") pare
+      caso -897: escreva("\nExtenso: Menos Oitocentos e Noventa e Sete") pare
+      caso -896: escreva("\nExtenso: Menos Oitocentos e Noventa e Seis") pare
+      caso -895: escreva("\nExtenso: Menos Oitocentos e Noventa e Cinco") pare
+      caso -894: escreva("\nExtenso: Menos Oitocentos e Noventa e Quatro") pare
+      caso -893: escreva("\nExtenso: Menos Oitocentos e Noventa e Três") pare
+      caso -892: escreva("\nExtenso: Menos Oitocentos e Noventa e Dois") pare
+      caso -891: escreva("\nExtenso: Menos Oitocentos e Noventa e Um") pare
+      caso -890: escreva("\nExtenso: Menos Oitocentos e Noventa") pare
+      caso -889: escreva("\nExtenso: Menos Oitocentos e Oitenta e Nove") pare
+      caso -888: escreva("\nExtenso: Menos Oitocentos e Oitenta e Oito") pare
+      caso -887: escreva("\nExtenso: Menos Oitocentos e Oitenta e Sete") pare
+      caso -886: escreva("\nExtenso: Menos Oitocentos e Oitenta e Seis") pare
+      caso -885: escreva("\nExtenso: Menos Oitocentos e Oitenta e Cinco") pare
+      caso -884: escreva("\nExtenso: Menos Oitocentos e Oitenta e Quatro") pare
+      caso -883: escreva("\nExtenso: Menos Oitocentos e Oitenta e Três") pare
+      caso -882: escreva("\nExtenso: Menos Oitocentos e Oitenta e Dois") pare
+      caso -881: escreva("\nExtenso: Menos Oitocentos e Oitenta e Um") pare
+      caso -880: escreva("\nExtenso: Menos Oitocentos e Oitenta") pare
+      caso -879: escreva("\nExtenso: Menos Oitocentos e Setenta e Nove") pare
+      caso -878: escreva("\nExtenso: Menos Oitocentos e Setenta e Oito") pare
+      caso -877: escreva("\nExtenso: Menos Oitocentos e Setenta e Sete") pare
+      caso -876: escreva("\nExtenso: Menos Oitocentos e Setenta e Seis") pare
+      caso -875: escreva("\nExtenso: Menos Oitocentos e Setenta e Cinco") pare
+      caso -874: escreva("\nExtenso: Menos Oitocentos e Setenta e Quatro") pare
+      caso -873: escreva("\nExtenso: Menos Oitocentos e Setenta e Três") pare
+      caso -872: escreva("\nExtenso: Menos Oitocentos e Setenta e Dois") pare
+      caso -871: escreva("\nExtenso: Menos Oitocentos e Setenta e Um") pare
+      caso -870: escreva("\nExtenso: Menos Oitocentos e Setenta") pare
+      caso -869: escreva("\nExtenso: Menos Oitocentos e Sessenta e Nove") pare
+      caso -868: escreva("\nExtenso: Menos Oitocentos e Sessenta e Oito") pare
+      caso -867: escreva("\nExtenso: Menos Oitocentos e Sessenta e Sete") pare
+      caso -866: escreva("\nExtenso: Menos Oitocentos e Sessenta e Seis") pare
+      caso -865: escreva("\nExtenso: Menos Oitocentos e Sessenta e Cinco") pare
+      caso -864: escreva("\nExtenso: Menos Oitocentos e Sessenta e Quatro") pare
+      caso -863: escreva("\nExtenso: Menos Oitocentos e Sessenta e Três") pare
+      caso -862: escreva("\nExtenso: Menos Oitocentos e Sessenta e Dois") pare
+      caso -861: escreva("\nExtenso: Menos Oitocentos e Sessenta e Um") pare
+      caso -860: escreva("\nExtenso: Menos Oitocentos e Sessenta") pare
+      caso -859: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Nove") pare
+      caso -858: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Oito") pare
+      caso -857: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Sete") pare
+      caso -856: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Seis") pare
+      caso -855: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Cinco") pare
+      caso -854: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Quatro") pare
+      caso -853: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Três") pare
+      caso -852: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Dois") pare
+      caso -851: escreva("\nExtenso: Menos Oitocentos e Cinquenta e Um") pare
+      caso -850: escreva("\nExtenso: Menos Oitocentos e Cinquenta") pare
+      caso -849: escreva("\nExtenso: Menos Oitocentos e Quarenta e Nove") pare
+      caso -848: escreva("\nExtenso: Menos Oitocentos e Quarenta e Oito") pare
+      caso -847: escreva("\nExtenso: Menos Oitocentos e Quarenta e Sete") pare
+      caso -846: escreva("\nExtenso: Menos Oitocentos e Quarenta e Seis") pare
+      caso -845: escreva("\nExtenso: Menos Oitocentos e Quarenta e Cinco") pare
+      caso -844: escreva("\nExtenso: Menos Oitocentos e Quarenta e Quatro") pare
+      caso -843: escreva("\nExtenso: Menos Oitocentos e Quarenta e Três") pare
+      caso -842: escreva("\nExtenso: Menos Oitocentos e Quarenta e Dois") pare
+      caso -841: escreva("\nExtenso: Menos Oitocentos e Quarenta e Um") pare
+      caso -840: escreva("\nExtenso: Menos Oitocentos e Quarenta") pare
+      caso -839: escreva("\nExtenso: Menos Oitocentos e Trinta e Nove") pare
+      caso -838: escreva("\nExtenso: Menos Oitocentos e Trinta e Oito") pare
+      caso -837: escreva("\nExtenso: Menos Oitocentos e Trinta e Sete") pare
+      caso -836: escreva("\nExtenso: Menos Oitocentos e Trinta e Seis") pare
+      caso -835: escreva("\nExtenso: Menos Oitocentos e Trinta e Cinco") pare
+      caso -834: escreva("\nExtenso: Menos Oitocentos e Trinta e Quatro") pare
+      caso -833: escreva("\nExtenso: Menos Oitocentos e Trinta e Três") pare
+      caso -832: escreva("\nExtenso: Menos Oitocentos e Trinta e Dois") pare
+      caso -831: escreva("\nExtenso: Menos Oitocentos e Trinta e Um") pare
+      caso -830: escreva("\nExtenso: Menos Oitocentos e Trinta") pare
+      caso -829: escreva("\nExtenso: Menos Oitocentos e Vinte e Nove") pare
+      caso -828: escreva("\nExtenso: Menos Oitocentos e Vinte e Oito") pare
+      caso -827: escreva("\nExtenso: Menos Oitocentos e Vinte e Sete") pare
+      caso -826: escreva("\nExtenso: Menos Oitocentos e Vinte e Seis") pare
+      caso -825: escreva("\nExtenso: Menos Oitocentos e Vinte e Cinco") pare
+      caso -824: escreva("\nExtenso: Menos Oitocentos e Vinte e Quatro") pare
+      caso -823: escreva("\nExtenso: Menos Oitocentos e Vinte e Três") pare
+      caso -822: escreva("\nExtenso: Menos Oitocentos e Vinte e Dois") pare
+      caso -821: escreva("\nExtenso: Menos Oitocentos e Vinte e Um") pare
+      caso -820: escreva("\nExtenso: Menos Oitocentos e Vinte") pare
+      caso -819: escreva("\nExtenso: Menos Oitocentos e Dezenove") pare
+      caso -818: escreva("\nExtenso: Menos Oitocentos e Dezoito") pare
+      caso -817: escreva("\nExtenso: Menos Oitocentos e Dezessete") pare
+      caso -816: escreva("\nExtenso: Menos Oitocentos e Dezesseis") pare
+      caso -815: escreva("\nExtenso: Menos Oitocentos e Quinze") pare
+      caso -814: escreva("\nExtenso: Menos Oitocentos e Quatorze") pare
+      caso -813: escreva("\nExtenso: Menos Oitocentos e Treze") pare
+      caso -812: escreva("\nExtenso: Menos Oitocentos e Doze") pare
+      caso -811: escreva("\nExtenso: Menos Oitocentos e Onze") pare
+      caso -810: escreva("\nExtenso: Menos Oitocentos e Dez") pare
+      caso -809: escreva("\nExtenso: Menos Oitocentos e Nove") pare
+      caso -808: escreva("\nExtenso: Menos Oitocentos e Oito") pare
+      caso -807: escreva("\nExtenso: Menos Oitocentos e Sete") pare
+      caso -806: escreva("\nExtenso: Menos Oitocentos e Seis") pare
+      caso -805: escreva("\nExtenso: Menos Oitocentos e Cinco") pare
+      caso -804: escreva("\nExtenso: Menos Oitocentos e Quatro") pare
+      caso -803: escreva("\nExtenso: Menos Oitocentos e Três") pare
+      caso -802: escreva("\nExtenso: Menos Oitocentos e Dois") pare
+      caso -801: escreva("\nExtenso: Menos Oitocentos e Um") pare
+      caso -800: escreva("\nExtenso: Menos Oitocentos") pare
+      caso -799: escreva("\nExtenso: Menos Setecentos e Noventa e Nove") pare
+      caso -798: escreva("\nExtenso: Menos Setecentos e Noventa e Oito") pare
+      caso -797: escreva("\nExtenso: Menos Setecentos e Noventa e Sete") pare
+      caso -796: escreva("\nExtenso: Menos Setecentos e Noventa e Seis") pare
+      caso -795: escreva("\nExtenso: Menos Setecentos e Noventa e Cinco") pare
+      caso -794: escreva("\nExtenso: Menos Setecentos e Noventa e Quatro") pare
+      caso -793: escreva("\nExtenso: Menos Setecentos e Noventa e Três") pare
+      caso -792: escreva("\nExtenso: Menos Setecentos e Noventa e Dois") pare
+      caso -791: escreva("\nExtenso: Menos Setecentos e Noventa e Um") pare
+      caso -790: escreva("\nExtenso: Menos Setecentos e Noventa") pare
+      caso -789: escreva("\nExtenso: Menos Setecentos e Oitenta e Nove") pare
+      caso -788: escreva("\nExtenso: Menos Setecentos e Oitenta e Oito") pare
+      caso -787: escreva("\nExtenso: Menos Setecentos e Oitenta e Sete") pare
+      caso -786: escreva("\nExtenso: Menos Setecentos e Oitenta e Seis") pare
+      caso -785: escreva("\nExtenso: Menos Setecentos e Oitenta e Cinco") pare
+      caso -784: escreva("\nExtenso: Menos Setecentos e Oitenta e Quatro") pare
+      caso -783: escreva("\nExtenso: Menos Setecentos e Oitenta e Três") pare
+      caso -782: escreva("\nExtenso: Menos Setecentos e Oitenta e Dois") pare
+      caso -781: escreva("\nExtenso: Menos Setecentos e Oitenta e Um") pare
+      caso -780: escreva("\nExtenso: Menos Setecentos e Oitenta") pare
+      caso -779: escreva("\nExtenso: Menos Setecentos e Setenta e Nove") pare
+      caso -778: escreva("\nExtenso: Menos Setecentos e Setenta e Oito") pare
+      caso -777: escreva("\nExtenso: Menos Setecentos e Setenta e Sete") pare
+      caso -776: escreva("\nExtenso: Menos Setecentos e Setenta e Seis") pare
+      caso -775: escreva("\nExtenso: Menos Setecentos e Setenta e Cinco") pare
+      caso -774: escreva("\nExtenso: Menos Setecentos e Setenta e Quatro") pare
+      caso -773: escreva("\nExtenso: Menos Setecentos e Setenta e Três") pare
+      caso -772: escreva("\nExtenso: Menos Setecentos e Setenta e Dois") pare
+      caso -771: escreva("\nExtenso: Menos Setecentos e Setenta e Um") pare
+      caso -770: escreva("\nExtenso: Menos Setecentos e Setenta") pare
+      caso -769: escreva("\nExtenso: Menos Setecentos e Sessenta e Nove") pare
+      caso -768: escreva("\nExtenso: Menos Setecentos e Sessenta e Oito") pare
+      caso -767: escreva("\nExtenso: Menos Setecentos e Sessenta e Sete") pare
+      caso -766: escreva("\nExtenso: Menos Setecentos e Sessenta e Seis") pare
+      caso -765: escreva("\nExtenso: Menos Setecentos e Sessenta e Cinco") pare
+      caso -764: escreva("\nExtenso: Menos Setecentos e Sessenta e Quatro") pare
+      caso -763: escreva("\nExtenso: Menos Setecentos e Sessenta e Três") pare
+      caso -762: escreva("\nExtenso: Menos Setecentos e Sessenta e Dois") pare
+      caso -761: escreva("\nExtenso: Menos Setecentos e Sessenta e Um") pare
+      caso -760: escreva("\nExtenso: Menos Setecentos e Sessenta") pare
+      caso -759: escreva("\nExtenso: Menos Setecentos e Cinquenta e Nove") pare
+      caso -758: escreva("\nExtenso: Menos Setecentos e Cinquenta e Oito") pare
+      caso -757: escreva("\nExtenso: Menos Setecentos e Cinquenta e Sete") pare
+      caso -756: escreva("\nExtenso: Menos Setecentos e Cinquenta e Seis") pare
+      caso -755: escreva("\nExtenso: Menos Setecentos e Cinquenta e Cinco") pare
+      caso -754: escreva("\nExtenso: Menos Setecentos e Cinquenta e Quatro") pare
+      caso -753: escreva("\nExtenso: Menos Setecentos e Cinquenta e Três") pare
+      caso -752: escreva("\nExtenso: Menos Setecentos e Cinquenta e Dois") pare
+      caso -751: escreva("\nExtenso: Menos Setecentos e Cinquenta e Um") pare
+      caso -750: escreva("\nExtenso: Menos Setecentos e Cinquenta") pare
+      caso -749: escreva("\nExtenso: Menos Setecentos e Quarenta e Nove") pare
+      caso -748: escreva("\nExtenso: Menos Setecentos e Quarenta e Oito") pare
+      caso -747: escreva("\nExtenso: Menos Setecentos e Quarenta e Sete") pare
+      caso -746: escreva("\nExtenso: Menos Setecentos e Quarenta e Seis") pare
+      caso -745: escreva("\nExtenso: Menos Setecentos e Quarenta e Cinco") pare
+      caso -744: escreva("\nExtenso: Menos Setecentos e Quarenta e Quatro") pare
+      caso -743: escreva("\nExtenso: Menos Setecentos e Quarenta e Três") pare
+      caso -742: escreva("\nExtenso: Menos Setecentos e Quarenta e Dois") pare
+      caso -741: escreva("\nExtenso: Menos Setecentos e Quarenta e Um") pare
+      caso -740: escreva("\nExtenso: Menos Setecentos e Quarenta") pare
+      caso -739: escreva("\nExtenso: Menos Setecentos e Trinta e Nove") pare
+      caso -738: escreva("\nExtenso: Menos Setecentos e Trinta e Oito") pare
+      caso -737: escreva("\nExtenso: Menos Setecentos e Trinta e Sete") pare
+      caso -736: escreva("\nExtenso: Menos Setecentos e Trinta e Seis") pare
+      caso -736: escreva("\nExtenso: Menos Setecentos e Trinta e Seis") pare
+      caso -735: escreva("\nExtenso: Menos Setecentos e Trinta e Cinco") pare
+      caso -734: escreva("\nExtenso: Menos Setecentos e Trinta e Quatro") pare
+      caso -733: escreva("\nExtenso: Menos Setecentos e Trinta e Três") pare
+      caso -732: escreva("\nExtenso: Menos Setecentos e Trinta e Dois") pare
+      caso -731: escreva("\nExtenso: Menos Setecentos e Trinta e Um") pare
+      caso -730: escreva("\nExtenso: Menos Setecentos e Trinta") pare
+      caso -729: escreva("\nExtenso: Menos Setecentos e Vinte e Nove") pare
+      caso -728: escreva("\nExtenso: Menos Setecentos e Vinte e Oito") pare
+      caso -727: escreva("\nExtenso: Menos Setecentos e Vinte e Sete") pare
+      caso -726: escreva("\nExtenso: Menos Setecentos e Vinte e Seis") pare
+      caso -725: escreva("\nExtenso: Menos Setecentos e Vinte e Cinco") pare
+      caso -724: escreva("\nExtenso: Menos Setecentos e Vinte e Quatro") pare
+      caso -723: escreva("\nExtenso: Menos Setecentos e Vinte e Três") pare
+      caso -722: escreva("\nExtenso: Menos Setecentos e Vinte e Dois") pare
+      caso -721: escreva("\nExtenso: Menos Setecentos e Vinte e Um") pare
+      caso -720: escreva("\nExtenso: Menos Setecentos e Vinte") pare
+      caso -719: escreva("\nExtenso: Menos Setecentos e Dezanove") pare
+      caso -718: escreva("\nExtenso: Menos Setecentos e Dezoito") pare
+      caso -717: escreva("\nExtenso: Menos Setecentos e Dezassete") pare
+      caso -716: escreva("\nExtenso: Menos Setecentos e Dezasseis") pare
+      caso -715: escreva("\nExtenso: Menos Setecentos e Quinze") pare
+      caso -714: escreva("\nExtenso: Menos Setecentos e Catorze") pare
+      caso -713: escreva("\nExtenso: Menos Setecentos e Treze") pare
+      caso -712: escreva("\nExtenso: Menos Setecentos e Doze") pare
+      caso -711: escreva("\nExtenso: Menos Setecentos e Onze") pare
+      caso -710: escreva("\nExtenso: Menos Setecentos e Dez") pare
+      caso -709: escreva("\nExtenso: Menos Setecentos e Nove") pare
+      caso -708: escreva("\nExtenso: Menos Setecentos e Oito") pare
+      caso -707: escreva("\nExtenso: Menos Setecentos e Sete") pare
+      caso -706: escreva("\nExtenso: Menos Setecentos e Seis") pare
+      caso -705: escreva("\nExtenso: Menos Setecentos e Cinco") pare
+      caso -704: escreva("\nExtenso: Menos Setecentos e Quatro") pare
+      caso -703: escreva("\nExtenso: Menos Setecentos e Três") pare
+      caso -702: escreva("\nExtenso: Menos Setecentos e Dois") pare
+      caso -701: escreva("\nExtenso: Menos Setecentos e Um") pare
+      caso -700: escreva("\nExtenso: Menos Setecentos") pare
+      caso -699: escreva("\nExtenso: Menos Seiscentos e Noventa e Nove") pare
+      caso -698: escreva("\nExtenso: Menos Seiscentos e Noventa e Oito") pare
+      caso -697: escreva("\nExtenso: Menos Seiscentos e Noventa e Sete") pare
+      caso -696: escreva("\nExtenso: Menos Seiscentos e Noventa e Seis") pare
+      caso -695: escreva("\nExtenso: Menos Seiscentos e Noventa e Cinco") pare
+      caso -694: escreva("\nExtenso: Menos Seiscentos e Noventa e Quatro") pare
+      caso -693: escreva("\nExtenso: Menos Seiscentos e Noventa e Três") pare
+      caso -692: escreva("\nExtenso: Menos Seiscentos e Noventa e Dois") pare
+      caso -691: escreva("\nExtenso: Menos Seiscentos e Noventa e Um") pare
+      caso -690: escreva("\nExtenso: Menos Seiscentos e Noventa") pare
+      caso -689: escreva("\nExtenso: Menos Seiscentos e Oitenta e Nove") pare
+      caso -688: escreva("\nExtenso: Menos Seiscentos e Oitenta e Oito") pare
+      caso -687: escreva("\nExtenso: Menos Seiscentos e Oitenta e Sete") pare
+      caso -686: escreva("\nExtenso: Menos Seiscentos e Oitenta e Seis") pare
+      caso -685: escreva("\nExtenso: Menos Seiscentos e Oitenta e Cinco") pare
+      caso -684: escreva("\nExtenso: Menos Seiscentos e Oitenta e Quatro") pare
+      caso -683: escreva("\nExtenso: Menos Seiscentos e Oitenta e Três") pare
+      caso -682: escreva("\nExtenso: Menos Seiscentos e Oitenta e Dois") pare
+      caso -681: escreva("\nExtenso: Menos Seiscentos e Oitenta e Um") pare
+      caso -680: escreva("\nExtenso: Menos Seiscentos e Oitenta") pare
+      caso -679: escreva("\nExtenso: Menos Seiscentos e Setenta e Nove") pare
+      caso -678: escreva("\nExtenso: Menos Seiscentos e Setenta e Oito") pare
+      caso -677: escreva("\nExtenso: Menos Seiscentos e Setenta e Sete") pare
+      caso -676: escreva("\nExtenso: Menos Seiscentos e Setenta e Seis") pare
+      caso -675: escreva("\nExtenso: Menos Seiscentos e Setenta e Cinco") pare
+      caso -674: escreva("\nExtenso: Menos Seiscentos e Setenta e Quatro") pare
+      caso -673: escreva("\nExtenso: Menos Seiscentos e Setenta e Três") pare
+      caso -672: escreva("\nExtenso: Menos Seiscentos e Setenta e Dois") pare
+      caso -671: escreva("\nExtenso: Menos Seiscentos e Setenta e Um") pare
+      caso -670: escreva("\nExtenso: Menos Seiscentos e Setenta") pare
+      caso -669: escreva("\nExtenso: Menos Seiscentos e Sessenta e Nove") pare
+      caso -668: escreva("\nExtenso: Menos Seiscentos e Sessenta e Oito") pare
+      caso -667: escreva("\nExtenso: Menos Seiscentos e Sessenta e Sete") pare
+      caso -666: escreva("\nExtenso: Menos Seiscentos e Sessenta e Seis") pare
+      caso -665: escreva("\nExtenso: Menos Seiscentos e Sessenta e Cinco") pare
+      caso -664: escreva("\nExtenso: Menos Seiscentos e Sessenta e Quatro") pare
+      caso -663: escreva("\nExtenso: Menos Seiscentos e Sessenta e Três") pare
+      caso -662: escreva("\nExtenso: Menos Seiscentos e Sessenta e Dois") pare
+      caso -661: escreva("\nExtenso: Menos Seiscentos e Sessenta e Um") pare
+      caso -660: escreva("\nExtenso: Menos Seiscentos e Sessenta") pare
+      caso -659: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Nove") pare
+      caso -658: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Oito") pare
+      caso -657: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Sete") pare
+      caso -656: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Seis") pare
+      caso -655: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Cinco") pare
+      caso -654: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Quatro") pare
+      caso -653: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Três") pare
+      caso -652: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Dois") pare
+      caso -651: escreva("\nExtenso: Menos Seiscentos e Cinquenta e Um") pare
+      caso -650: escreva("\nExtenso: Menos Seiscentos e Cinquenta") pare
+      caso -649: escreva("\nExtenso: Menos Seiscentos e Quarenta e Nove") pare
+      caso -648: escreva("\nExtenso: Menos Seiscentos e Quarenta e Oito") pare
+      caso -647: escreva("\nExtenso: Menos Seiscentos e Quarenta e Sete") pare
+      caso -646: escreva("\nExtenso: Menos Seiscentos e Quarenta e Seis") pare
+      caso -645: escreva("\nExtenso: Menos Seiscentos e Quarenta e Cinco") pare
+      caso -644: escreva("\nExtenso: Menos Seiscentos e Quarenta e Quatro") pare
+      caso -643: escreva("\nExtenso: Menos Seiscentos e Quarenta e Três") pare
+      caso -642: escreva("\nExtenso: Menos Seiscentos e Quarenta e Dois") pare
+      caso -641: escreva("\nExtenso: Menos Seiscentos e Quarenta e Um") pare
+      caso -640: escreva("\nExtenso: Menos Seiscentos e Quarenta") pare
+      caso -639: escreva("\nExtenso: Menos Seiscentos e Trinta e Nove") pare
+      caso -638: escreva("\nExtenso: Menos Seiscentos e Trinta e Oito") pare
+      caso -637: escreva("\nExtenso: Menos Seiscentos e Trinta e Sete") pare
+      caso -636: escreva("\nExtenso: Menos Seiscentos e Trinta e Seis") pare
+      caso -635: escreva("\nExtenso: Menos Seiscentos e Trinta e Cinco") pare
+      caso -634: escreva("\nExtenso: Menos Seiscentos e Trinta e Quatro") pare
+      caso -633: escreva("\nExtenso: Menos Seiscentos e Trinta e Três") pare
+      caso -632: escreva("\nExtenso: Menos Seiscentos e Trinta e Dois") pare
+      caso -631: escreva("\nExtenso: Menos Seiscentos e Trinta e Um") pare
+      caso -630: escreva("\nExtenso: Menos Seiscentos e Trinta") pare
+      caso -629: escreva("\nExtenso: Menos Seiscentos e Vinte e Nove") pare
+      caso -628: escreva("\nExtenso: Menos Seiscentos e Vinte e Oito") pare
+      caso -627: escreva("\nExtenso: Menos Seiscentos e Vinte e Sete") pare
+      caso -626: escreva("\nExtenso: Menos Seiscentos e Vinte e Seis") pare
+      caso -625: escreva("\nExtenso: Menos Seiscentos e Vinte e Cinco") pare
+      caso -624: escreva("\nExtenso: Menos Seiscentos e Vinte e Quatro") pare
+      caso -623: escreva("\nExtenso: Menos Seiscentos e Vinte e Três") pare
+      caso -622: escreva("\nExtenso: Menos Seiscentos e Vinte e Dois") pare
+      caso -621: escreva("\nExtenso: Menos Seiscentos e Vinte e Um") pare
+      caso -620: escreva("\nExtenso: Menos Seiscentos e Vinte") pare
+      caso -619: escreva("\nExtenso: Menos Seiscentos e Dezanove") pare
+      caso -618: escreva("\nExtenso: Menos Seiscentos e Dezoito") pare
+      caso -617: escreva("\nExtenso: Menos Seiscentos e Dezassete") pare
+      caso -616: escreva("\nExtenso: Menos Seiscentos e Dezasseis") pare
+      caso -615: escreva("\nExtenso: Menos Seiscentos e Quinze") pare
+      caso -614: escreva("\nExtenso: Menos Seiscentos e Catorze") pare
+      caso -613: escreva("\nExtenso: Menos Seiscentos e Treze") pare
+      caso -612: escreva("\nExtenso: Menos Seiscentos e Doze") pare
+      caso -611: escreva("\nExtenso: Menos Seiscentos e Onze") pare
+      caso -610: escreva("\nExtenso: Menos Seiscentos e Dez") pare
+      caso -609: escreva("\nExtenso: Menos Seiscentos e Nove") pare
+      caso -608: escreva("\nExtenso: Menos Seiscentos e Oito") pare
+      caso -607: escreva("\nExtenso: Menos Seiscentos e Sete") pare
+      caso -606: escreva("\nExtenso: Menos Seiscentos e Seis") pare
+      caso -605: escreva("\nExtenso: Menos Seiscentos e Cinco") pare
+      caso -604: escreva("\nExtenso: Menos Seiscentos e Quatro") pare
+      caso -603: escreva("\nExtenso: Menos Seiscentos e Três") pare
+      caso -602: escreva("\nExtenso: Menos Seiscentos e Dois") pare
+      caso -601: escreva("\nExtenso: Menos Seiscentos e Um") pare
+      caso -600: escreva("\nExtenso: Menos Seiscentos") pare
+      caso -599: escreva("\nExtenso: Menos Quinhentos e Noventa e Nove") pare
+      caso -598: escreva("\nExtenso: Menos Quinhentos e Noventa e Oito") pare
+      caso -597: escreva("\nExtenso: Menos Quinhentos e Noventa e Sete") pare
+      caso -596: escreva("\nExtenso: Menos Quinhentos e Noventa e Seis") pare
+      caso -595: escreva("\nExtenso: Menos Quinhentos e Noventa e Cinco") pare
+      caso -594: escreva("\nExtenso: Menos Quinhentos e Noventa e Quatro") pare
+      caso -593: escreva("\nExtenso: Menos Quinhentos e Noventa e Três") pare
+      caso -592: escreva("\nExtenso: Menos Quinhentos e Noventa e Dois") pare
+      caso -591: escreva("\nExtenso: Menos Quinhentos e Noventa e Um") pare
+      caso -590: escreva("\nExtenso: Menos Quinhentos e Noventa") pare
+      caso -589: escreva("\nExtenso: Menos Quinhentos e Oitenta e Nove") pare
+      caso -588: escreva("\nExtenso: Menos Quinhentos e Oitenta e Oito") pare
+      caso -587: escreva("\nExtenso: Menos Quinhentos e Oitenta e Sete") pare
+      caso -586: escreva("\nExtenso: Menos Quinhentos e Oitenta e Seis") pare
+      caso -585: escreva("\nExtenso: Menos Quinhentos e Oitenta e Cinco") pare
+      caso -584: escreva("\nExtenso: Menos Quinhentos e Oitenta e Quatro") pare
+      caso -583: escreva("\nExtenso: Menos Quinhentos e Oitenta e Três") pare
+      caso -582: escreva("\nExtenso: Menos Quinhentos e Oitenta e Dois") pare
+      caso -581: escreva("\nExtenso: Menos Quinhentos e Oitenta e Um") pare
+      caso -580: escreva("\nExtenso: Menos Quinhentos e Oitenta") pare
+      caso -579: escreva("\nExtenso: Menos Quinhentos e Setenta e Nove") pare
+      caso -578: escreva("\nExtenso: Menos Quinhentos e Setenta e Oito") pare
+      caso -577: escreva("\nExtenso: Menos Quinhentos e Setenta e Sete") pare
+      caso -576: escreva("\nExtenso: Menos Quinhentos e Setenta e Seis") pare
+      caso -575: escreva("\nExtenso: Menos Quinhentos e Setenta e Cinco") pare
+      caso -574: escreva("\nExtenso: Menos Quinhentos e Setenta e Quatro") pare
+      caso -573: escreva("\nExtenso: Menos Quinhentos e Setenta e Três") pare
+      caso -572: escreva("\nExtenso: Menos Quinhentos e Setenta e Dois") pare
+      caso -571: escreva("\nExtenso: Menos Quinhentos e Setenta e Um") pare
+      caso -570: escreva("\nExtenso: Menos Quinhentos e Setenta") pare
+      caso -569: escreva("\nExtenso: Menos Quinhentos e Sessenta e Nove") pare
+      caso -568: escreva("\nExtenso: Menos Quinhentos e Sessenta e Oito") pare
+      caso -567: escreva("\nExtenso: Menos Quinhentos e Sessenta e Sete") pare
+      caso -566: escreva("\nExtenso: Menos Quinhentos e Sessenta e Seis") pare
+      caso -565: escreva("\nExtenso: Menos Quinhentos e Sessenta e Cinco") pare
+      caso -564: escreva("\nExtenso: Menos Quinhentos e Sessenta e Quatro") pare
+      caso -563: escreva("\nExtenso: Menos Quinhentos e Sessenta e Três") pare
+      caso -562: escreva("\nExtenso: Menos Quinhentos e Sessenta e Dois") pare
+      caso -561: escreva("\nExtenso: Menos Quinhentos e Sessenta e Um") pare
+      caso -560: escreva("\nExtenso: Menos Quinhentos e Sessenta") pare
+      caso -559: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Nove") pare
+      caso -558: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Oito") pare
+      caso -557: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Sete") pare
+      caso -556: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Seis") pare
+      caso -555: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Cinco") pare
+      caso -554: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Quatro") pare
+      caso -553: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Três") pare
+      caso -552: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Dois") pare
+      caso -551: escreva("\nExtenso: Menos Quinhentos e Cinquenta e Um") pare
+      caso -550: escreva("\nExtenso: Menos Quinhentos e Cinquenta") pare
+      caso -549: escreva("\nExtenso: Menos Quinhentos e Quarenta e Nove") pare
+      caso -548: escreva("\nExtenso: Menos Quinhentos e Quarenta e Oito") pare
+      caso -547: escreva("\nExtenso: Menos Quinhentos e Quarenta e Sete") pare
+      caso -546: escreva("\nExtenso: Menos Quinhentos e Quarenta e Seis") pare
+      caso -545: escreva("\nExtenso: Menos Quinhentos e Quarenta e Cinco") pare
+      caso -544: escreva("\nExtenso: Menos Quinhentos e Quarenta e Quatro") pare
+      caso -543: escreva("\nExtenso: Menos Quinhentos e Quarenta e Três") pare
+      caso -542: escreva("\nExtenso: Menos Quinhentos e Quarenta e Dois") pare
+      caso -541: escreva("\nExtenso: Menos Quinhentos e Quarenta e Um") pare
+      caso -540: escreva("\nExtenso: Menos Quinhentos e Quarenta") pare
+      caso -539: escreva("\nExtenso: Menos Quinhentos e Trinta e Nove") pare
+      caso -538: escreva("\nExtenso: Menos Quinhentos e Trinta e Oito") pare
+      caso -537: escreva("\nExtenso: Menos Quinhentos e Trinta e Sete") pare
+      caso -536: escreva("\nExtenso: Menos Quinhentos e Trinta e Seis") pare
+      caso -535: escreva("\nExtenso: Menos Quinhentos e Trinta e Cinco") pare
+      caso -534: escreva("\nExtenso: Menos Quinhentos e Trinta e Quatro") pare
+      caso -533: escreva("\nExtenso: Menos Quinhentos e Trinta e Três") pare
+      caso -532: escreva("\nExtenso: Menos Quinhentos e Trinta e Dois") pare
+      caso -531: escreva("\nExtenso: Menos Quinhentos e Trinta e Um") pare
+      caso -530: escreva("\nExtenso: Menos Quinhentos e Trinta") pare
+      caso -529: escreva("\nExtenso: Menos Quinhentos e Vinte e Nove") pare
+      caso -528: escreva("\nExtenso: Menos Quinhentos e Vinte e Oito") pare
+      caso -527: escreva("\nExtenso: Menos Quinhentos e Vinte e Sete") pare
+      caso -526: escreva("\nExtenso: Menos Quinhentos e Vinte e Seis") pare
+      caso -525: escreva("\nExtenso: Menos Quinhentos e Vinte e Cinco") pare
+      caso -524: escreva("\nExtenso: Menos Quinhentos e Vinte e Quatro") pare
+      caso -523: escreva("\nExtenso: Menos Quinhentos e Vinte e Três") pare
+      caso -522: escreva("\nExtenso: Menos Quinhentos e Vinte e Dois") pare
+      caso -521: escreva("\nExtenso: Menos Quinhentos e Vinte e Um") pare
+      caso -520: escreva("\nExtenso: Menos Quinhentos e Vinte") pare
+      caso -519: escreva("\nExtenso: Menos Quinhentos e Dezanove") pare
+      caso -518: escreva("\nExtenso: Menos Quinhentos e Dezoito") pare
+      caso -517: escreva("\nExtenso: Menos Quinhentos e Dezassete") pare
+      caso -516: escreva("\nExtenso: Menos Quinhentos e Dezasseis") pare
+      caso -515: escreva("\nExtenso: Menos Quinhentos e Quinze") pare
+      caso -514: escreva("\nExtenso: Menos Quinhentos e Catorze") pare
+      caso -513: escreva("\nExtenso: Menos Quinhentos e Treze") pare
+      caso -512: escreva("\nExtenso: Menos Quinhentos e Doze") pare
+      caso -511: escreva("\nExtenso: Menos Quinhentos e Onze") pare
+      caso -510: escreva("\nExtenso: Menos Quinhentos e Dez") pare
+      caso -509: escreva("\nExtenso: Menos Quinhentos e Nove") pare
+      caso -508: escreva("\nExtenso: Menos Quinhentos e Oito") pare
+      caso -507: escreva("\nExtenso: Menos Quinhentos e Sete") pare
+      caso -506: escreva("\nExtenso: Menos Quinhentos e Seis") pare
+      caso -505: escreva("\nExtenso: Menos Quinhentos e Cinco") pare
+      caso -504: escreva("\nExtenso: Menos Quinhentos e Quatro") pare
+      caso -503: escreva("\nExtenso: Menos Quinhentos e Três") pare
+      caso -502: escreva("\nExtenso: Menos Quinhentos e Dois") pare
+      caso -501: escreva("\nExtenso: Menos Quinhentos e Um") pare
+      caso -500: escreva("\nExtenso: Menos Quinhentos") pare
+      caso -499: escreva("\nExtenso: Menos Quatrocentos e Noventa e Nove") pare
+      caso -488: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Oito") pare
+      caso -497: escreva("\nExtenso: Menos Quatrocentos e Noventa e Sete") pare
+      caso -496: escreva("\nExtenso: Menos Quatrocentos e Noventa e Seis") pare
+      caso -495: escreva("\nExtenso: Menos Quatrocentos e Noventa e Cinco") pare
+      caso -494: escreva("\nExtenso: Menos Quatrocentos e Noventa e Quatro") pare
+      caso -493: escreva("\nExtenso: Menos Quatrocentos e Noventa e Três") pare
+      caso -492: escreva("\nExtenso: Menos Quatrocentos e Noventa e Dois") pare
+      caso -491: escreva("\nExtenso: Menos Quatrocentos e Noventa e Um") pare
+      caso -490: escreva("\nExtenso: Menos Quatrocentos e Noventa") pare
+      caso -489: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Nove") pare
+      caso -488: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Oito") pare
+      caso -487: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Sete") pare
+      caso -486: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Seis") pare
+      caso -485: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Cinco") pare
+      caso -484: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Quatro") pare
+      caso -483: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Três") pare
+      caso -482: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Dois") pare
+      caso -481: escreva("\nExtenso: Menos Quatrocentos e Oitenta e Um") pare
+      caso -480: escreva("\nExtenso: Menos Quatrocentos e Oitenta") pare
+      caso -479: escreva("\nExtenso: Menos Quatrocentos e Setenta e Nove") pare
+      caso -478: escreva("\nExtenso: Menos Quatrocentos e Setenta e Oito") pare
+      caso -477: escreva("\nExtenso: Menos Quatrocentos e Setenta e Sete") pare
+      caso -476: escreva("\nExtenso: Menos Quatrocentos e Setenta e Seis") pare
+      caso -475: escreva("\nExtenso: Menos Quatrocentos e Setenta e Cinco") pare
+      caso -474: escreva("\nExtenso: Menos Quatrocentos e Setenta e Quatro") pare
+      caso -473: escreva("\nExtenso: Menos Quatrocentos e Setenta e Três") pare
+      caso -472: escreva("\nExtenso: Menos Quatrocentos e Setenta e Dois") pare
+      caso -471: escreva("\nExtenso: Menos Quatrocentos e Setenta e Um") pare
+      caso -470: escreva("\nExtenso: Menos Quatrocentos e Setenta") pare
+      caso -469: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Nove") pare
+      caso -468: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Oito") pare
+      caso -467: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Sete") pare
+      caso -466: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Seis") pare
+      caso -465: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Cinco") pare
+      caso -464: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Quatro") pare
+      caso -463: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Três") pare
+      caso -462: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Dois") pare
+      caso -461: escreva("\nExtenso: Menos Quatrocentos e Sessenta e Um") pare
+      caso -460: escreva("\nExtenso: Menos Quatrocentos e Sessenta") pare
+      caso -459: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Nove") pare
+      caso -458: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Oito") pare
+      caso -457: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Sete") pare
+      caso -456: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Seis") pare
+      caso -455: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Cinco") pare
+      caso -454: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Quatro") pare
+      caso -453: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Três") pare
+      caso -452: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Dois") pare
+      caso -451: escreva("\nExtenso: Menos Quatrocentos e Cinquenta e Um") pare
+      caso -450: escreva("\nExtenso: Menos Quatrocentos e Cinquenta") pare
+      caso -449: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Nove") pare
+      caso -448: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Oito") pare
+      caso -447: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Sete") pare
+      caso -446: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Seis") pare
+      caso -445: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Cinco") pare
+      caso -444: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Quatro") pare
+      caso -443: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Três") pare
+      caso -442: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Dois") pare
+      caso -441: escreva("\nExtenso: Menos Quatrocentos e Quarenta e Um") pare
+      caso -440: escreva("\nExtenso: Menos Quatrocentos e Quarenta") pare
+      caso -439: escreva("\nExtenso: Menos Quatrocentos e Trinta e Nove") pare
+      caso -438: escreva("\nExtenso: Menos Quatrocentos e Trinta e Oito") pare
+      caso -437: escreva("\nExtenso: Menos Quatrocentos e Trinta e Sete") pare
+      caso -436: escreva("\nExtenso: Menos Quatrocentos e Trinta e Seis") pare
+      caso -435: escreva("\nExtenso: Menos Quatrocentos e Trinta e Cinco") pare
+      caso -434: escreva("\nExtenso: Menos Quatrocentos e Trinta e Quatro") pare
+      caso -433: escreva("\nExtenso: Menos Quatrocentos e Trinta e Três") pare
+      caso -432: escreva("\nExtenso: Menos Quatrocentos e Trinta e Dois") pare
+      caso -431: escreva("\nExtenso: Menos Quatrocentos e Trinta e Um") pare
+      caso -430: escreva("\nExtenso: Menos Quatrocentos e Trinta") pare
+      caso -429: escreva("\nExtenso: Menos Quatrocentos e Vinte e Nove") pare
+      caso -428: escreva("\nExtenso: Menos Quatrocentos e Vinte e Oito") pare
+      caso -427: escreva("\nExtenso: Menos Quatrocentos e Vinte e Sete") pare
+      caso -426: escreva("\nExtenso: Menos Quatrocentos e Vinte e Seis") pare
+      caso -425: escreva("\nExtenso: Menos Quatrocentos e Vinte e Cinco") pare
+      caso -424: escreva("\nExtenso: Menos Quatrocentos e Vinte e Quatro") pare
+      caso -423: escreva("\nExtenso: Menos Quatrocentos e Vinte e Três") pare
+      caso -422: escreva("\nExtenso: Menos Quatrocentos e Vinte e Dois") pare
+      caso -421: escreva("\nExtenso: Menos Quatrocentos e Vinte e Um") pare
+      caso -420: escreva("\nExtenso: Menos Quatrocentos e Vinte") pare
+      caso -419: escreva("\nExtenso: Menos Quatrocentos e Dezanove") pare
+      caso -418: escreva("\nExtenso: Menos Quatrocentos e Dezoito") pare
+      caso -417: escreva("\nExtenso: Menos Quatrocentos e Dezassete") pare
+      caso -416: escreva("\nExtenso: Menos Quatrocentos e Dezasseis") pare
+      caso -415: escreva("\nExtenso: Menos Quatrocentos e Quinze") pare
+      caso -414: escreva("\nExtenso: Menos Quatrocentos e Catorze") pare
+      caso -413: escreva("\nExtenso: Menos Quatrocentos e Treze") pare
+      caso -412: escreva("\nExtenso: Menos Quatrocentos e Doze") pare
+      caso -411: escreva("\nExtenso: Menos Quatrocentos e Onze") pare
+      caso -410: escreva("\nExtenso: Menos Quatrocentos e Dez") pare
+      caso -409: escreva("\nExtenso: Menos Quatrocentos e Nove") pare
+      caso -408: escreva("\nExtenso: Menos Quatrocentos e Oito") pare
+      caso -407: escreva("\nExtenso: Menos Quatrocentos e Sete") pare
+      caso -406: escreva("\nExtenso: Menos Quatrocentos e Seis") pare
+      caso -405: escreva("\nExtenso: Menos Quatrocentos e Cinco") pare
+      caso -404: escreva("\nExtenso: Menos Quatrocentos e Quatro") pare
+      caso -403: escreva("\nExtenso: Menos Quatrocentos e Três") pare
+      caso -402: escreva("\nExtenso: Menos Quatrocentos e Dois") pare
+      caso -401: escreva("\nExtenso: Menos Quatrocentos e Um") pare
+      caso -400: escreva("\nExtenso: Menos Quatrocentos") pare
+      caso -399: escreva("\nExtenso: Menos Trezentos e Noventa e Nove") pare
+      caso -398: escreva("\nExtenso: Menos Trezentos e Noventa e Oito") pare
+      caso -397: escreva("\nExtenso: Menos Trezentos e Noventa e Sete") pare
+      caso -396: escreva("\nExtenso: Menos Trezentos e Noventa e Seis") pare
+      caso -395: escreva("\nExtenso: Menos Trezentos e Noventa e Cinco") pare
+      caso -394: escreva("\nExtenso: Menos Trezentos e Noventa e Quatro") pare
+      caso -393: escreva("\nExtenso: Menos Trezentos e Noventa e Três") pare
+      caso -392: escreva("\nExtenso: Menos Trezentos e Noventa e Dois") pare
+      caso -391: escreva("\nExtenso: Menos Trezentos e Noventa e Um") pare
+      caso -390: escreva("\nExtenso: Menos Trezentos e Noventa") pare
+      caso -389: escreva("\nExtenso: Menos Trezentos e Oitenta e Nove") pare
+      caso -388: escreva("\nExtenso: Menos Trezentos e Oitenta e Oito") pare
+      caso -387: escreva("\nExtenso: Menos Trezentos e Oitenta e Sete") pare
+      caso -386: escreva("\nExtenso: Menos Trezentos e Oitenta e Seis") pare
+      caso -385: escreva("\nExtenso: Menos Trezentos e Oitenta e Cinco") pare
+      caso -384: escreva("\nExtenso: Menos Trezentos e Oitenta e Quatro") pare
+      caso -383: escreva("\nExtenso: Menos Trezentos e Oitenta e Três") pare
+      caso -382: escreva("\nExtenso: Menos Trezentos e Oitenta e Dois") pare
+      caso -381: escreva("\nExtenso: Menos Trezentos e Oitenta e Um") pare
+      caso -380: escreva("\nExtenso: Menos Trezentos e Oitenta") pare
+      caso -379: escreva("\nExtenso: Menos Trezentos e Setenta e Nove") pare
+      caso -378: escreva("\nExtenso: Menos Trezentos e Setenta e Oito") pare
+      caso -377: escreva("\nExtenso: Menos Trezentos e Setenta e Sete") pare
+      caso -376: escreva("\nExtenso: Menos Trezentos e Setenta e Seis") pare
+      caso -375: escreva("\nExtenso: Menos Trezentos e Setenta e Cinco") pare
+      caso -374: escreva("\nExtenso: Menos Trezentos e Setenta e Quatro") pare
+      caso -373: escreva("\nExtenso: Menos Trezentos e Setenta e Três") pare
+      caso -372: escreva("\nExtenso: Menos Trezentos e Setenta e Dois") pare
+      caso -371: escreva("\nExtenso: Menos Trezentos e Setenta e Um") pare
+      caso -370: escreva("\nExtenso: Menos Trezentos e Setenta") pare
+      caso -369: escreva("\nExtenso: Menos Trezentos e Sessenta e Nove") pare
+      caso -368: escreva("\nExtenso: Menos Trezentos e Sessenta e Oito") pare
+      caso -367: escreva("\nExtenso: Menos Trezentos e Sessenta e Sete") pare
+      caso -366: escreva("\nExtenso: Menos Trezentos e Sessenta e Seis") pare
+      caso -365: escreva("\nExtenso: Menos Trezentos e Sessenta e Cinco") pare
+      caso -364: escreva("\nExtenso: Menos Trezentos e Sessenta e Quatro") pare
+      caso -363: escreva("\nExtenso: Menos Trezentos e Sessenta e Três") pare
+      caso -362: escreva("\nExtenso: Menos Trezentos e Sessenta e Dois") pare
+      caso -361: escreva("\nExtenso: Menos Trezentos e Sessenta e Um") pare
+      caso -360: escreva("\nExtenso: Menos Trezentos e Sessenta") pare
+      caso -359: escreva("\nExtenso: Menos Trezentos e Cinquenta e Nove") pare
+      caso -358: escreva("\nExtenso: Menos Trezentos e Cinquenta e Oito") pare
+      caso -357: escreva("\nExtenso: Menos Trezentos e Cinquenta e Sete") pare
+      caso -356: escreva("\nExtenso: Menos Trezentos e Cinquenta e Seis") pare
+      caso -355: escreva("\nExtenso: Menos Trezentos e Cinquenta e Cinco") pare
+      caso -354: escreva("\nExtenso: Menos Trezentos e Cinquenta e Quatro") pare
+      caso -353: escreva("\nExtenso: Menos Trezentos e Cinquenta e Três") pare
+      caso -352: escreva("\nExtenso: Menos Trezentos e Cinquenta e Dois") pare
+      caso -351: escreva("\nExtenso: Menos Trezentos e Cinquenta e Um") pare
+      caso -350: escreva("\nExtenso: Menos Trezentos e Cinquenta") pare
+      caso -349: escreva("\nExtenso: Menos Trezentos e Quarenta e Nove") pare
+      caso -348: escreva("\nExtenso: Menos Trezentos e Quarenta e Oito") pare
+      caso -347: escreva("\nExtenso: Menos Trezentos e Quarenta e Sete") pare
+      caso -346: escreva("\nExtenso: Menos Trezentos e Quarenta e Seis") pare
+      caso -345: escreva("\nExtenso: Menos Trezentos e Quarenta e Cinco") pare
+      caso -344: escreva("\nExtenso: Menos Trezentos e Quarenta e Quatro") pare
+      caso -343: escreva("\nExtenso: Menos Trezentos e Quarenta e Três") pare
+      caso -342: escreva("\nExtenso: Menos Trezentos e Quarenta e Dois") pare
+      caso -341: escreva("\nExtenso: Menos Trezentos e Quarenta e Um") pare
+      caso -340: escreva("\nExtenso: Menos Trezentos e Quarenta") pare
+      caso -339: escreva("\nExtenso: Menos Trezentos e Trinta e Nove") pare
+      caso -338: escreva("\nExtenso: Menos Trezentos e Trinta e Oito") pare
+      caso -337: escreva("\nExtenso: Menos Trezentos e Trinta e Sete") pare
+      caso -336: escreva("\nExtenso: Menos Trezentos e Trinta e Seis") pare
+      caso -335: escreva("\nExtenso: Menos Trezentos e Trinta e Cinco") pare
+      caso -334: escreva("\nExtenso: Menos Trezentos e Trinta e Quatro") pare
+      caso -333: escreva("\nExtenso: Menos Trezentos e Trinta e Três") pare
+      caso -332: escreva("\nExtenso: Menos Trezentos e Trinta e Dois") pare
+      caso -331: escreva("\nExtenso: Menos Trezentos e Trinta e Um") pare
+      caso -330: escreva("\nExtenso: Menos Trezentos e Trinta") pare
+      caso -329: escreva("\nExtenso: Menos Trezentos e Vinte e Nove") pare
+      caso -328: escreva("\nExtenso: Menos Trezentos e Vinte e Oito") pare
+      caso -327: escreva("\nExtenso: Menos Trezentos e Vinte e Sete") pare
+      caso -326: escreva("\nExtenso: Menos Trezentos e Vinte e Seis") pare
+      caso -325: escreva("\nExtenso: Menos Trezentos e Vinte e Cinco") pare
+      caso -324: escreva("\nExtenso: Menos Trezentos e Vinte e Quatro") pare
+      caso -323: escreva("\nExtenso: Menos Trezentos e Vinte e Três") pare
+      caso -322: escreva("\nExtenso: Menos Trezentos e Vinte e Dois") pare
+      caso -321: escreva("\nExtenso: Menos Trezentos e Vinte e Um") pare
+      caso -320: escreva("\nExtenso: Menos Trezentos e Vinte") pare
+      caso -319: escreva("\nExtenso: Menos Trezentos e Dezanove") pare
+      caso -318: escreva("\nExtenso: Menos Trezentos e Dezoito") pare
+      caso -317: escreva("\nExtenso: Menos Trezentos e Dezassete") pare
+      caso -316: escreva("\nExtenso: Menos Trezentos e Dezasseis") pare
+      caso -315: escreva("\nExtenso: Menos Trezentos e Quinze") pare
+      caso -314: escreva("\nExtenso: Menos Trezentos e Catorze") pare
+      caso -313: escreva("\nExtenso: Menos Trezentos e Treze") pare
+      caso -312: escreva("\nExtenso: Menos Trezentos e Doze") pare
+      caso -311: escreva("\nExtenso: Menos Trezentos e Onze") pare
+      caso -310: escreva("\nExtenso: Menos Trezentos e Dez") pare
+      caso -309: escreva("\nExtenso: Menos Trezentos e Nove") pare
+      caso -308: escreva("\nExtenso: Menos Trezentos e Oito") pare
+      caso -307: escreva("\nExtenso: Menos Trezentos e Sete") pare
+      caso -306: escreva("\nExtenso: Menos Trezentos e Seis") pare
+      caso -305: escreva("\nExtenso: Menos Trezentos e Cinco") pare
+      caso -304: escreva("\nExtenso: Menos Trezentos e Quatro") pare
+      caso -303: escreva("\nExtenso: Menos Trezentos e Três") pare
+      caso -302: escreva("\nExtenso: Menos Trezentos e Dois") pare
+      caso -301: escreva("\nExtenso: Menos Trezentos e Um") pare
+      caso -300: escreva("\nExtenso: Menos Trezentos") pare
+      caso -299: escreva("\nExtenso: Menos Duzentos e Noventa e Nove") pare
+      caso -298: escreva("\nExtenso: Menos Duzentos e Noventa e Oito") pare
+      caso -297: escreva("\nExtenso: Menos Duzentos e Noventa e Sete") pare
+      caso -296: escreva("\nExtenso: Menos Duzentos e Noventa e Seis") pare
+      caso -295: escreva("\nExtenso: Menos Duzentos e Noventa e Cinco") pare
+      caso -294: escreva("\nExtenso: Menos Duzentos e Noventa e Quatro") pare
+      caso -293: escreva("\nExtenso: Menos Duzentos e Noventa e Três") pare
+      caso -292: escreva("\nExtenso: Menos Duzentos e Noventa e Dois") pare
+      caso -291: escreva("\nExtenso: Menos Duzentos e Noventa e Um") pare
+      caso -290: escreva("\nExtenso: Menos Duzentos e Noventa") pare
+      caso -289: escreva("\nExtenso: Menos Duzentos e Oitenta e Nove") pare
+      caso -288: escreva("\nExtenso: Menos Duzentos e Oitenta e Oito") pare
+      caso -287: escreva("\nExtenso: Menos Duzentos e Oitenta e Sete") pare
+      caso -286: escreva("\nExtenso: Menos Duzentos e Oitenta e Seis") pare
+      caso -285: escreva("\nExtenso: Menos Duzentos e Oitenta e Cinco") pare
+      caso -284: escreva("\nExtenso: Menos Duzentos e Oitenta e Quatro") pare
+      caso -283: escreva("\nExtenso: Menos Duzentos e Oitenta e Três") pare
+      caso -282: escreva("\nExtenso: Menos Duzentos e Oitenta e Dois") pare
+      caso -281: escreva("\nExtenso: Menos Duzentos e Oitenta e Um") pare
+      caso -280: escreva("\nExtenso: Menos Duzentos e Oitenta") pare
+      caso -279: escreva("\nExtenso: Menos Duzentos e Setenta e Nove") pare
+      caso -278: escreva("\nExtenso: Menos Duzentos e Setenta e Oito") pare
+      caso -277: escreva("\nExtenso: Menos Duzentos e Setenta e Sete") pare
+      caso -276: escreva("\nExtenso: Menos Duzentos e Setenta e Seis") pare
+      caso -275: escreva("\nExtenso: Menos Duzentos e Setenta e Cinco") pare
+      caso -274: escreva("\nExtenso: Menos Duzentos e Setenta e Quatro") pare
+      caso -273: escreva("\nExtenso: Menos Duzentos e Setenta e Três") pare
+      caso -272: escreva("\nExtenso: Menos Duzentos e Setenta e Dois") pare
+      caso -271: escreva("\nExtenso: Menos Duzentos e Setenta e Um") pare
+      caso -270: escreva("\nExtenso: Menos Duzentos e Setenta") pare
+      caso -269: escreva("\nExtenso: Menos Duzentos e Sessenta e Nove") pare
+      caso -268: escreva("\nExtenso: Menos Duzentos e Sessenta e Oito") pare
+      caso -267: escreva("\nExtenso: Menos Duzentos e Sessenta e Sete") pare
+      caso -266: escreva("\nExtenso: Menos Duzentos e Sessenta e Seis") pare
+      caso -265: escreva("\nExtenso: Menos Duzentos e Sessenta e Cinco") pare
+      caso -264: escreva("\nExtenso: Menos Duzentos e Sessenta e Quatro") pare
+      caso -263: escreva("\nExtenso: Menos Duzentos e Sessenta e Três") pare
+      caso -262: escreva("\nExtenso: Menos Duzentos e Sessenta e Dois") pare
+      caso -261: escreva("\nExtenso: Menos Duzentos e Sessenta e Um") pare
+      caso -260: escreva("\nExtenso: Menos Duzentos e Sessenta") pare
+      caso -259: escreva("\nExtenso: Menos Duzentos e Cinquenta e Nove") pare
+      caso -258: escreva("\nExtenso: Menos Duzentos e Cinquenta e Oito") pare
+      caso -257: escreva("\nExtenso: Menos Duzentos e Cinquenta e Sete") pare
+      caso -256: escreva("\nExtenso: Menos Duzentos e Cinquenta e Seis") pare
+      caso -255: escreva("\nExtenso: Menos Duzentos e Cinquenta e Cinco") pare
+      caso -254: escreva("\nExtenso: Menos Duzentos e Cinquenta e Quatro") pare
+      caso -253: escreva("\nExtenso: Menos Duzentos e Cinquenta e Três") pare
+      caso -252: escreva("\nExtenso: Menos Duzentos e Cinquenta e Dois") pare
+      caso -251: escreva("\nExtenso: Menos Duzentos e Cinquenta e Um") pare
+      caso -250: escreva("\nExtenso: Menos Duzentos e Cinquenta") pare
+      caso -249: escreva("\nExtenso: Menos Duzentos e Quarenta e Nove") pare
+      caso -248: escreva("\nExtenso: Menos Duzentos e Quarenta e Oito") pare
+      caso -247: escreva("\nExtenso: Menos Duzentos e Quarenta e Sete") pare
+      caso -246: escreva("\nExtenso: Menos Duzentos e Quarenta e Seis") pare
+      caso -245: escreva("\nExtenso: Menos Duzentos e Quarenta e Cinco") pare
+      caso -244: escreva("\nExtenso: Menos Duzentos e Quarenta e Quatro") pare
+      caso -243: escreva("\nExtenso: Menos Duzentos e Quarenta e Três") pare
+      caso -242: escreva("\nExtenso: Menos Duzentos e Quarenta e Dois") pare
+      caso -241: escreva("\nExtenso: Menos Duzentos e Quarenta e Um") pare
+      caso -240: escreva("\nExtenso: Menos Duzentos e Quarenta") pare
+      caso -239: escreva("\nExtenso: Menos Duzentos e Trinta e Nove") pare
+      caso -238: escreva("\nExtenso: Menos Duzentos e Trinta e Oito") pare
+      caso -237: escreva("\nExtenso: Menos Duzentos e Trinta e Sete") pare
+      caso -236: escreva("\nExtenso: Menos Duzentos e Trinta e Seis") pare
+      caso -235: escreva("\nExtenso: Menos Duzentos e Trinta e Cinco") pare
+      caso -234: escreva("\nExtenso: Menos Duzentos e Trinta e Quatro") pare
+      caso -233: escreva("\nExtenso: Menos Duzentos e Trinta e Três") pare
+      caso -232: escreva("\nExtenso: Menos Duzentos e Trinta e Dois") pare
+      caso -231: escreva("\nExtenso: Menos Duzentos e Trinta e Um") pare
+      caso -230: escreva("\nExtenso: Menos Duzentos e Trinta") pare
+      caso -229: escreva("\nExtenso: Menos Duzentos e Vinte e Nove") pare
+      caso -228: escreva("\nExtenso: Menos Duzentos e Vinte e Oito") pare
+      caso -227: escreva("\nExtenso: Menos Duzentos e Vinte e Sete") pare
+      caso -226: escreva("\nExtenso: Menos Duzentos e Vinte e Seis") pare
+      caso -225: escreva("\nExtenso: Menos Duzentos e Vinte e Cinco") pare
+      caso -224: escreva("\nExtenso: Menos Duzentos e Vinte e Quatro") pare
+      caso -223: escreva("\nExtenso: Menos Duzentos e Vinte e Três") pare
+      caso -222: escreva("\nExtenso: Menos Duzentos e Vinte e Dois") pare
+      caso -221: escreva("\nExtenso: Menos Duzentos e Vinte e Um") pare
+      caso -220: escreva("\nExtenso: Menos Duzentos e Vinte") pare
+      caso -219: escreva("\nExtenso: Menos Duzentos e Dezanove") pare
+      caso -218: escreva("\nExtenso: Menos Duzentos e Dezoito") pare
+      caso -217: escreva("\nExtenso: Menos Duzentos e Dezassete") pare
+      caso -216: escreva("\nExtenso: Menos Duzentos e Dezasseis") pare
+      caso -215: escreva("\nExtenso: Menos Duzentos e Quinze") pare
+      caso -214: escreva("\nExtenso: Menos Duzentos e Catorze") pare
+      caso -213: escreva("\nExtenso: Menos Duzentos e Treze") pare
+      caso -212: escreva("\nExtenso: Menos Duzentos e Doze") pare
+      caso -211: escreva("\nExtenso: Menos Duzentos e Onze") pare
+      caso -210: escreva("\nExtenso: Menos Duzentos e Dez") pare
+      caso -209: escreva("\nExtenso: Menos Duzentos e Nove") pare
+      caso -208: escreva("\nExtenso: Menos Duzentos e Oito") pare
+      caso -207: escreva("\nExtenso: Menos Duzentos e Sete") pare
+      caso -206: escreva("\nExtenso: Menos Duzentos e Seis") pare
+      caso -205: escreva("\nExtenso: Menos Duzentos e Cinco") pare
+      caso -204: escreva("\nExtenso: Menos Duzentos e Quatro") pare
+      caso -203: escreva("\nExtenso: Menos Duzentos e Três") pare
+      caso -202: escreva("\nExtenso: Menos Duzentos e Dois") pare
+      caso -201: escreva("\nExtenso: Menos Duzentos e Um") pare
+      caso -200: escreva("\nExtenso: Menos Duzentos") pare
+      caso -199: escreva("\nExtenso: Menos Cento e Noventa e Nove") pare
+      caso -198: escreva("\nExtenso: Menos Cento e Noventa e Oito") pare
+      caso -197: escreva("\nExtenso: Menos Cento e Noventa e Sete") pare
+      caso -196: escreva("\nExtenso: Menos Cento e Noventa e Seis") pare
+      caso -195: escreva("\nExtenso: Menos Cento e Noventa e Cinco") pare
+      caso -194: escreva("\nExtenso: Menos Cento e Noventa e Quatro") pare
+      caso -193: escreva("\nExtenso: Menos Cento e Noventa e Três") pare
+      caso -192: escreva("\nExtenso: Menos Cento e Noventa e Dois") pare
+      caso -191: escreva("\nExtenso: Menos Cento e Noventa e Um") pare
+      caso -190: escreva("\nExtenso: Menos Cento e Noventa") pare
+      caso -189: escreva("\nExtenso: Menos Cento e Oitenta e Nove") pare
+      caso -188: escreva("\nExtenso: Menos Cento e Oitenta e Oito") pare
+      caso -187: escreva("\nExtenso: Menos Cento e Oitenta e Sete") pare
+      caso -186: escreva("\nExtenso: Menos Cento e Oitenta e Seis") pare
+      caso -185: escreva("\nExtenso: Menos Cento e Oitenta e Cinco") pare
+      caso -184: escreva("\nExtenso: Menos Cento e Oitenta e Quatro") pare
+      caso -183: escreva("\nExtenso: Menos Cento e Oitenta e Três") pare
+      caso -182: escreva("\nExtenso: Menos Cento e Oitenta e Dois") pare
+      caso -181: escreva("\nExtenso: Menos Cento e Oitenta e Um") pare
+      caso -180: escreva("\nExtenso: Menos Cento e Oitenta") pare
+      caso -179: escreva("\nExtenso: Menos Cento e Setenta e Nove") pare
+      caso -178: escreva("\nExtenso: Menos Cento e Setenta e Oito") pare
+      caso -177: escreva("\nExtenso: Menos Cento e Setenta e Sete") pare
+      caso -176: escreva("\nExtenso: Menos Cento e Setenta e Seis") pare
+      caso -175: escreva("\nExtenso: Menos Cento e Setenta e Cinco") pare
+      caso -174: escreva("\nExtenso: Menos Cento e Setenta e Quatro") pare
+      caso -173: escreva("\nExtenso: Menos Cento e Setenta e Três") pare
+      caso -172: escreva("\nExtenso: Menos Cento e Setenta e Dois") pare
+      caso -171: escreva("\nExtenso: Menos Cento e Setenta e Um") pare
+      caso -170: escreva("\nExtenso: Menos Cento e Setenta") pare
+      caso -169: escreva("\nExtenso: Menos Cento e Sessenta e Nove") pare
+      caso -168: escreva("\nExtenso: Menos Cento e Sessenta e Oito") pare
+      caso -167: escreva("\nExtenso: Menos Cento e Sessenta e Sete") pare
+      caso -166: escreva("\nExtenso: Menos Cento e Sessenta e Seis") pare
+      caso -165: escreva("\nExtenso: Menos Cento e Sessenta e Cinco") pare
+      caso -164: escreva("\nExtenso: Menos Cento e Sessenta e Quatro") pare
+      caso -163: escreva("\nExtenso: Menos Cento e Sessenta e Três") pare
+      caso -162: escreva("\nExtenso: Menos Cento e Sessenta e Dois") pare
+      caso -161: escreva("\nExtenso: Menos Cento e Sessenta e Um") pare
+      caso -160: escreva("\nExtenso: Menos Cento e Sessenta") pare
+      caso -159: escreva("\nExtenso: Menos Cento e Cinquenta e Nove") pare
+      caso -158: escreva("\nExtenso: Menos Cento e Cinquenta e Oito") pare
+      caso -157: escreva("\nExtenso: Menos Cento e Cinquenta e Sete") pare
+      caso -156: escreva("\nExtenso: Menos Cento e Cinquenta e Seis") pare
+      caso -155: escreva("\nExtenso: Menos Cento e Cinquenta e Cinco") pare
+      caso -154: escreva("\nExtenso: Menos Cento e Cinquenta e Quatro") pare
+      caso -153: escreva("\nExtenso: Menos Cento e Cinquenta e Três") pare
+      caso -152: escreva("\nExtenso: Menos Cento e Cinquenta e Dois") pare
+      caso -151: escreva("\nExtenso: Menos Cento e Cinquenta e Um") pare
+      caso -150: escreva("\nExtenso: Menos Cento e Cinquenta") pare
+      caso -149: escreva("\nExtenso: Menos Cento e Quarenta e Nove") pare
+      caso -148: escreva("\nExtenso: Menos Cento e Quarenta e Oito") pare
+      caso -147: escreva("\nExtenso: Menos Cento e Quarenta e Sete") pare
+      caso -146: escreva("\nExtenso: Menos Cento e Quarenta e Seis") pare
+      caso -145: escreva("\nExtenso: Menos Cento e Quarenta e Cinco") pare
+      caso -144: escreva("\nExtenso: Menos Cento e Quarenta e Quatro") pare
+      caso -143: escreva("\nExtenso: Menos Cento e Quarenta e Três") pare
+      caso -142: escreva("\nExtenso: Menos Cento e Quarenta e Dois") pare
+      caso -141: escreva("\nExtenso: Menos Cento e Quarenta e Um") pare
+      caso -140: escreva("\nExtenso: Menos Cento e Quarenta") pare
+      caso -139: escreva("\nExtenso: Menos Cento e Trinta e Nove") pare
+      caso -138: escreva("\nExtenso: Menos Cento e Trinta e Oito") pare
+      caso -137: escreva("\nExtenso: Menos Cento e Trinta e Sete") pare
+      caso -136: escreva("\nExtenso: Menos Cento e Trinta e Seis") pare
+      caso -135: escreva("\nExtenso: Menos Cento e Trinta e Cinco") pare
+      caso -134: escreva("\nExtenso: Menos Cento e Trinta e Quatro") pare
+      caso -133: escreva("\nExtenso: Menos Cento e Trinta e Três") pare
+      caso -132: escreva("\nExtenso: Menos Cento e Trinta e Dois") pare
+      caso -131: escreva("\nExtenso: Menos Cento e Trinta e Um") pare
+      caso -130: escreva("\nExtenso: Menos Cento e Trinta") pare
+      caso -129: escreva("\nExtenso: Menos Cento e Vinte e Nove") pare
+      caso -128: escreva("\nExtenso: Menos Cento e Vinte e Oito") pare
+      caso -127: escreva("\nExtenso: Menos Cento e Vinte e Sete") pare
+      caso -126: escreva("\nExtenso: Menos Cento e Vinte e Seis") pare
+      caso -125: escreva("\nExtenso: Menos Cento e Vinte e Cinco") pare
+      caso -124: escreva("\nExtenso: Menos Cento e Vinte e Quatro") pare
+      caso -123: escreva("\nExtenso: Menos Cento e Vinte e Três") pare
+      caso -122: escreva("\nExtenso: Menos Cento e Vinte e Dois") pare
+      caso -121: escreva("\nExtenso: Menos Cento e Vinte e Um") pare
+      caso -120: escreva("\nExtenso: Menos Cento e Vinte") pare
+      caso -119: escreva("\nExtenso: Menos Cento e Dezanove") pare
+      caso -118: escreva("\nExtenso: Menos Cento e Dezoito") pare
+      caso -117: escreva("\nExtenso: Menos Cento e Dezassete") pare
+      caso -116: escreva("\nExtenso: Menos Cento e Dezasseis") pare
+      caso -115: escreva("\nExtenso: Menos Cento e Quinze") pare
+      caso -114: escreva("\nExtenso: Menos Cento e Catorze") pare
+      caso -113: escreva("\nExtenso: Menos Cento e Treze") pare
+      caso -112: escreva("\nExtenso: Menos Cento e Doze") pare
+      caso -111: escreva("\nExtenso: Menos Cento e Onze") pare
+      caso -110: escreva("\nExtenso: Menos Cento e Dez") pare
+      caso -109: escreva("\nExtenso: Menos Cento e Nove") pare
+      caso -108: escreva("\nExtenso: Menos Cento e Oito") pare
+      caso -107: escreva("\nExtenso: Menos Cento e Sete") pare
+      caso -106: escreva("\nExtenso: Menos Cento e Seis") pare
+      caso -105: escreva("\nExtenso: Menos Cento e Cinco") pare
+      caso -104: escreva("\nExtenso: Menos Cento e Quatro") pare
+      caso -103: escreva("\nExtenso: Menos Cento e Três") pare
+      caso -102: escreva("\nExtenso: Menos Cento e Dois") pare
+      caso -101: escreva("\nExtenso: Menos Cento e Um") pare
+      caso -100: escreva("\nExtenso: Menos Cem") pare
+      caso -99: escreva("\nExtenso: Menos Noventa e Nove") pare
+      caso -98: escreva("\nExtenso: Menos Noventa e Oito") pare
+      caso -97: escreva("\nExtenso: Menos Noventa e Sete") pare
+      caso -96: escreva("\nExtenso: Menos Noventa e Seis") pare
+      caso -95: escreva("\nExtenso: Menos Noventa e Cinco") pare
+      caso -94: escreva("\nExtenso: Menos Noventa e Quatro") pare
+      caso -93: escreva("\nExtenso: Menos Noventa e Três") pare
+      caso -92: escreva("\nExtenso: Menos Noventa e Dois") pare
+      caso -91: escreva("\nExtenso: Menos Noventa e Um") pare
+      caso -90: escreva("\nExtenso: Menos Noventa") pare
+      caso -89: escreva("\nExtenso: Menos Oitenta e Nove") pare
+      caso -88: escreva("\nExtenso: Menos Oitenta e Oito") pare
+      caso -87: escreva("\nExtenso: Menos Oitenta e Sete") pare
+      caso -86: escreva("\nExtenso: Menos Oitenta e Seis") pare
+      caso -85: escreva("\nExtenso: Menos Oitenta e Cinco") pare
+      caso -84: escreva("\nExtenso: Menos Oitenta e Quatro") pare
+      caso -83: escreva("\nExtenso: Menos Oitenta e Três") pare
+      caso -82: escreva("\nExtenso: Menos Oitenta e Dois") pare
+      caso -81: escreva("\nExtenso: Menos Oitenta e Um") pare
+      caso -80: escreva("\nExtenso: Menos Oitenta") pare
+      caso -79: escreva("\nExtenso: Menos Setenta e Nove") pare
+      caso -78: escreva("\nExtenso: Menos Setenta e Oito") pare
+      caso -77: escreva("\nExtenso: Menos Setenta e Sete") pare
+      caso -76: escreva("\nExtenso: Menos Setenta e Seis") pare
+      caso -75: escreva("\nExtenso: Menos Setenta e Cinco") pare
+      caso -74: escreva("\nExtenso: Menos Setenta e Quatro") pare
+      caso -73: escreva("\nExtenso: Menos Setenta e Três") pare
+      caso -72: escreva("\nExtenso: Menos Setenta e Dois") pare
+      caso -71: escreva("\nExtenso: Menos Setenta e Um") pare
+      caso -70: escreva("\nExtenso: Menos Setenta") pare
+      caso -69: escreva("\nExtenso: Menos Sessenta e Nove") pare
+      caso -68: escreva("\nExtenso: Menos Sessenta e Oito") pare
+      caso -67: escreva("\nExtenso: Menos Sessenta e Sete") pare
+      caso -66: escreva("\nExtenso: Menos Sessenta e Seis") pare
+      caso -65: escreva("\nExtenso: Menos Sessenta e Cinco") pare
+      caso -64: escreva("\nExtenso: Menos Sessenta e Quatro") pare
+      caso -63: escreva("\nExtenso: Menos Sessenta e Três") pare
+      caso -62: escreva("\nExtenso: Menos Sessenta e Dois") pare
+      caso -61: escreva("\nExtenso: Menos Sessenta e Um") pare
+      caso -60: escreva("\nExtenso: Menos Sessenta") pare
+      caso -59: escreva("\nExtenso: Menos Cinquenta e Nove") pare
+      caso -58: escreva("\nExtenso: Menos Cinquenta e Oito") pare
+      caso -57: escreva("\nExtenso: Menos Cinquenta e Sete") pare
+      caso -56: escreva("\nExtenso: Menos Cinquenta e Seis") pare
+      caso -55: escreva("\nExtenso: Menos Cinquenta e Cinco") pare
+      caso -54: escreva("\nExtenso: Menos Cinquenta e Quatro") pare
+      caso -53: escreva("\nExtenso: Menos Cinquenta e Três") pare
+      caso -52: escreva("\nExtenso: Menos Cinquenta e Dois") pare
+      caso -51: escreva("\nExtenso: Menos Cinquenta e Um") pare
+      caso -50: escreva("\nExtenso: Menos Cinquenta") pare
+      caso -49: escreva("\nExtenso: Menos Quarenta e Nove") pare
+      caso -48: escreva("\nExtenso: Menos Quarenta e Oito") pare
+      caso -47: escreva("\nExtenso: Menos Quarenta e Sete") pare
+      caso -46: escreva("\nExtenso: Menos Quarenta e Seis") pare
+      caso -45: escreva("\nExtenso: Menos Quarenta e Cinco") pare
+      caso -44: escreva("\nExtenso: Menos Quarenta e Quatro") pare
+      caso -43: escreva("\nExtenso: Menos Quarenta e Três") pare
+      caso -42: escreva("\nExtenso: Menos Quarenta e Dois") pare
+      caso -41: escreva("\nExtenso: Menos Quarenta e Um") pare
+      caso -40: escreva("\nExtenso: Menos Quarenta") pare
+      caso -39: escreva("\nExtenso: Menos Trinta e Nove") pare
+      caso -38: escreva("\nExtenso: Menos Trinta e Oito") pare
+      caso -37: escreva("\nExtenso: Menos Trinta e Sete") pare
+      caso -36: escreva("\nExtenso: Menos Trinta e Seis") pare
+      caso -35: escreva("\nExtenso: Menos Trinta e Cinco") pare
+      caso -34: escreva("\nExtenso: Menos Trinta e Quatro") pare
+      caso -33: escreva("\nExtenso: Menos Trinta e Três") pare
+      caso -32: escreva("\nExtenso: Menos Trinta e Dois") pare
+      caso -31: escreva("\nExtenso: Menos Trinta e Um") pare
+      caso -30: escreva("\nExtenso: Menos Trinta") pare
+      caso -29: escreva("\nExtenso: Menos Vinte e Nove") pare
+      caso -28: escreva("\nExtenso: Menos Vinte e Oito") pare
+      caso -27: escreva("\nExtenso: Menos Vinte e Sete") pare
+      caso -26: escreva("\nExtenso: Menos Vinte e Seis") pare
+      caso -25: escreva("\nExtenso: Menos Vinte e Cinco") pare
+      caso -24: escreva("\nExtenso: Menos Vinte e Quatro") pare
+      caso -23: escreva("\nExtenso: Menos Vinte e Três") pare
+      caso -22: escreva("\nExtenso: Menos Vinte e Dois") pare
+      caso -21: escreva("\nExtenso: Menos Vinte e Um") pare
+      caso -20: escreva("\nExtenso: Menos Vinte") pare
+      caso -19: escreva("\nExtenso: Menos Dezanove") pare
+      caso -18: escreva("\nExtenso: Menos Dezoito") pare
+      caso -17: escreva("\nExtenso: Menos Dezassete") pare
+      caso -16: escreva("\nExtenso: Menos Dezasseis") pare
+      caso -15: escreva("\nExtenso: Menos Quinze") pare
+      caso -14: escreva("\nExtenso: Menos Catorze") pare
+      caso -13: escreva("\nExtenso: Menos Treze") pare
+      caso -12: escreva("\nExtenso: Menos Doze") pare
+      caso -11: escreva("\nExtenso: Menos Onze") pare
+      caso -10: escreva("\nExtenso: Menos Dez") pare
+      caso -9: escreva("\nExtenso: Menos Nove") pare
+      caso -8: escreva("\nExtenso: Menos Oito") pare
+      caso -7: escreva("\nExtenso: Menos Sete") pare
+      caso -6: escreva("\nExtenso: Menos Seis") pare
+      caso -5: escreva("\nExtenso: Menos Cinco") pare
+      caso -4: escreva("\nExtenso: Menos Quatro") pare
+      caso -3: escreva("\nExtenso: Menos Três") pare
+      caso -2: escreva("\nExtenso: Menos Dois") pare
+      caso -1: escreva("\nExtenso: Menos Um") pare
+      caso 0: escreva("\nExtenso: Zero") pare
+      caso contrario: escreva("\nExtenso: (Apenas números de -1000 a 0 configurados)")
+    }
   }
 }
